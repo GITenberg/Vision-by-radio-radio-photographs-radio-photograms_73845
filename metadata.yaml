@@ -1,5 +1,8 @@
 _repo: Vision-by-radio-radio-photographs-radio-photograms_73845
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73845-h/images/cover.jpg
 creator:
   author:
     agent_name: Jenkins, C. Francis (Charles Francis)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57205
     wikipedia: https://en.wikipedia.org/wiki/Charles_Francis_Jenkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73845#Vision-by-radio-radio-photographs-radio-photograms
 gutenberg_issued: '2024-06-16'
 gutenberg_type: Text
 identifiers:
